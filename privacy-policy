@@ -1,5 +1,12 @@
-I have taken the user's handle name from the codeforces website and used that to store the problems he/she liked/disliked on codeforces
-If he like/dislike a problem using my extension then I will store that this user has liked/disliked this particular porblem. Now for each
-problem I have gathered all the likes/dislikes and displayed them right next to the problem and for each user I displayed all the problems they liked/disliked
-by coloring and disabling the buttons.
-Other than that I've not collected any other information about the extension user.
+I have not collected any sensitive information.
+Collected data : 
+I have taken the user's handle name from the codeforces website 
+
+How I used the codeforces handle name:
+I used that to store the problems user liked/disliked on codeforces, If he/she like/dislike a problem using my extension then I will store that this 
+user has liked/disliked this particular porblem. 
+Now for each problem I have gathered all the likes/dislikes and displayed them right next to the problem which the intended feature of the extension itself
+and for each user I displayed all the problems they liked/disliked.
+
+Information Sharing: 
+I do not share any of the information that I've in my database for this extension to any other 3rd party. 
