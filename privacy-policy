@@ -1,3 +1,5 @@
-I have collected the user's handle name from the codeforces website and used that to store the problems he/she liked/disliked on codeforces. Now for each
-problem I have gathered all the likes/dislikes and displayed them right next to the problem.
+I have taken the user's handle name from the codeforces website and used that to store the problems he/she liked/disliked on codeforces
+If he like/dislike a problem using my extension then I will store that this user has liked/disliked this particular porblem. Now for each
+problem I have gathered all the likes/dislikes and displayed them right next to the problem and for each user I displayed all the problems they liked/disliked
+by coloring and disabling the buttons.
 Other than that I've not collected any other information about the extension user.
